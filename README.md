@@ -17,7 +17,7 @@
 <h3 align='center'>Home Page 🚙</h3>
 
 <div align='center'>
-<img src='https://github.com/sajin-rana/car-rent/blob/main/src/assets/all-images/1.png >
+<img src='https://github.com/sajin-rana/car-rent/blob/main/src/assets/all-images/1.png' >
 
 </div>
 
@@ -43,14 +43,24 @@
 
 <div align='center'>
 <img src='https://github.com/sajin-rana/car-rent/blob/main/src/assets/all-images/5.png'/>
+<br>
+<br>
+<br>
+<br>
 <img src='https://github.com/sajin-rana/car-rent/blob/main/src/assets/all-images/8.png' />
 </div>
+
+<br>
+<br>
 
 <h3 align='center'>Contact Page 📞</h3>
 
 <div align='center'>
 <img src='https://github.com/sajin-rana/car-rent/blob/main/src/assets/all-images/7.png'/>
 </div>
+
+<br>
+<br>
 
 
 <h3 align='center'>Footer Page 🐾</h3>
