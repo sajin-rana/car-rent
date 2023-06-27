@@ -25,7 +25,7 @@
 <h3 align='center'>About Page 👇</h3>
 
 <div align='center'>
-<img src='https://github.com/sajin-rana/car-rent/blob/main/src/assets/all-images/2.png />
+<img src='https://github.com/sajin-rana/car-rent/blob/main/src/assets/all-images/2.png' />
 
 <br>
 <br>
